@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Aug 25 19:51:39 CST 2014
+http\://10.203.24.26\:8080/nexus/content/groups/SGM/.lastUpdated=1408967499617
+http\://10.203.25.150/nexus/content/repositories/thirdparty/.error=
+http\://10.203.24.26\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1408967499586
+http\://10.203.24.26\:8080/nexus/content/groups/SGM/.error=
+http\://10.203.24.26\:8080/nexus/content/repositories/opensource/.lastUpdated=1408967499477
+http\://10.203.24.26\:8080/nexus/content/repositories/Snapshot/.error=
+http\://10.203.25.150/nexus/content/repositories/thirdparty/.lastUpdated=1387721511188
+http\://10.203.24.26\:8080/nexus/content/repositories/opensource/.error=
+http\://10.203.25.150/nexus/content/repositories/opensource/.lastUpdated=1387721511173
+http\://10.203.24.26\:8080/nexus/content/repositories/Snapshot/.lastUpdated=1408967499649
+http\://10.203.25.150/nexus/content/repositories/opensource/.error=
+da39a3ee5e6b4b0d3255bfef95601890afd80709@localhost\:5555>default-http\://10.203.24.26\:8080/nexus/content/repositories/opensource/.lastUpdated=1408933657250
+http\://10.203.24.26\:8080/nexus/content/repositories/thirdparty/.error=
+http\://10.203.25.150/nexus/content/repositories/Snapshot/.error=
+http\://10.203.25.150/nexus/content/repositories/Snapshot/.lastUpdated=1387721511188
